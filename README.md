@@ -1,2 +1,11 @@
-# huffman-archiver
-File archiver based on Huffman coding algorithm.
+## Как запустить архиватор?
+
+- перейти в директорию ./build ("cd build" из текущей директории)
+- запустить cmake "cmake ."
+- собрать архиватор "make archiver"
+
+## Как использовать архиватор?
+
+- Чтобы получить инструкцию по использованию нужно запустить "./archiver -h"
+- Чтобы сжать файлы с путями file1, file2, ... в архив archivename следует запустить команду "./archiver -c "archivename" file1 file2 ..."
+- Чтобы расжать файлы из архива archivename в исходные файлы следует запустить команду "./archiver -d archivename"
