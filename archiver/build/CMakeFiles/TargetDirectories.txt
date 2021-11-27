@@ -1,0 +1,3 @@
+/Users/maximshuklin/dev/cpp-pilot-hse/projects/archiver/build/CMakeFiles/rebuild_cache.dir
+/Users/maximshuklin/dev/cpp-pilot-hse/projects/archiver/build/CMakeFiles/edit_cache.dir
+/Users/maximshuklin/dev/cpp-pilot-hse/projects/archiver/build/CMakeFiles/archiver.dir
